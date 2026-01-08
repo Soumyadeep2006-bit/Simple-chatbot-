@@ -1,0 +1,6 @@
+chatgpt
+main file-1)performs the pyautogui and pyperclip task
+2)has the chat_history and sends it as argument to mistralai function in mistral_ai.py file
+3)recieves roast from mistralai(ai) and prints it 
+
+
